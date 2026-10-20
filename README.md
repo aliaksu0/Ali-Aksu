@@ -1,10 +1,9 @@
 <div align="center">
   <img src="assets/ali.jpg" alt="Ali Aksu" width="160" />
   <h1>Ali Aksu</h1>
-  <p>Computer Engineer · Data Engineering</p>
 </div>
 
-## Ali Aksu 101
+## Ali Aksu
 
 - **Background:** Computer engineering graduate, Atılım University (2025).
 - **Built so far:** Full-stack web applications with C#/.NET, React, Next.js and FastAPI, including an HR management API developed during an internship at Forte.
