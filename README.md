@@ -31,6 +31,6 @@ Computer engineer moving into data engineering, currently following Google's pro
 ## On GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars,issues,contribs&rank_icon=github&theme=github_dark" />
-  <img src="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars,issues,contribs&rank_icon=github" alt="Ali Aksu's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars%2Cissues%2Ccontribs&hide_rank=true&disable_animations=true&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars%2Cissues%2Ccontribs&hide_rank=true&disable_animations=true" alt="Ali Aksu's GitHub stats" />
 </picture>
