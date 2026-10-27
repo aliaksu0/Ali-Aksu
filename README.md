@@ -28,9 +28,9 @@ Computer engineer moving into data engineering, currently following Google's pro
 - **Cloud & infrastructure:** Google Cloud · Docker
 - **Software:** C# · .NET · TypeScript · React · Next.js · FastAPI
 
-## On GitHub
+## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars%2Cissues%2Ccontribs&hide_rank=true&disable_animations=true&theme=github_dark" />
-  <img src="https://github-stats-extended.vercel.app/api?username=aliaksu0&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&hide=stars%2Cissues%2Ccontribs&hide_rank=true&disable_animations=true" alt="Ali Aksu's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliaksu0/aliaksu0/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aliaksu0/aliaksu0/output/snake-light.svg" alt="Snake animation eating Ali Aksu's GitHub contribution graph" />
 </picture>
