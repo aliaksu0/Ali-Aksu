@@ -18,7 +18,7 @@ Computer engineer moving into data engineering, currently following Google's pro
 
 ## Background
 
-- **Türkiye Kaykay Federasyonu** · Current role.
+- **Türkiye Kaykay Federasyonu** · Computer Programmer (current).
 - **Forte** · Internship. Developed an HR management API.
 - **Vakıfbank** · Information security internship. Explored SIEM, NDR and MITRE ATT&CK.
 - **Atılım University** · Computer Engineering, graduated 2025.
